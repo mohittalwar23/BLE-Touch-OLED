@@ -118,7 +118,6 @@ void loop() {
       
         pCharacteristic->setValue(touchValue);
         pCharacteristic->notify();
-        delay(1000);
     }
 
     // Disconnecting
