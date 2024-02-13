@@ -30,4 +30,6 @@ Similarly multiple graphs can be implemented
 
 
 CREDITS:  https://github.com/elC0mpa for the OLED PART
-AUTHOT: https://github.com/mohittalwar23
+
+
+AUTHOR: https://github.com/mohittalwar23
