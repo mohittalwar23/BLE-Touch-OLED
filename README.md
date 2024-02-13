@@ -22,7 +22,8 @@ Disable Bluetooth for Windows in Device Manager.
 - In the Virtual Machine, navigate to Devices > USB Device, and checkmark the Bluetooth driver.
 - Refer to resources like Stack Overflow for further assistance if needed.
 
-#DEMO BLE
+# DEMO BLE
+
 ![DEMO](https://github.com/mohittalwar23/BLE-Touch-OLED/blob/main/demogif.gif)
 
 # OLED
