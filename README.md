@@ -24,8 +24,10 @@ Disable Bluetooth for Windows in Device Manager.
 
 # OLED
 The oled implementation is based on an opensource library https://github.com/elC0mpa/OLED_SSD1306_Chart/tree/master 
+
 We are measuring the touch sensor value ( minimum - 0 when touched and maximum 70ish when no touch)
 Similarly multiple graphs can be implemented
 
 
-CREDITS: Detailed credits will be included shortly.
+CREDITS:  https://github.com/elC0mpa for the OLED PART
+AUTHOT: https://github.com/mohittalwar23
