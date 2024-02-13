@@ -22,5 +22,10 @@ Disable Bluetooth for Windows in Device Manager.
 - In the Virtual Machine, navigate to Devices > USB Device, and checkmark the Bluetooth driver.
 - Refer to resources like Stack Overflow for further assistance if needed.
 
+# OLED
+The oled implementation is based on an opensource library https://github.com/elC0mpa/OLED_SSD1306_Chart/tree/master 
+We are measuring the touch sensor value ( minimum - 0 when touched and maximum 70ish when no touch)
+Similarly multiple graphs can be implemented
+
 
 CREDITS: Detailed credits will be included shortly.
