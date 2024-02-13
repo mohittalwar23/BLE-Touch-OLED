@@ -1,5 +1,5 @@
 
-This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy).
+# This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy).
 
 The firmware is designed to be uploaded onto an ESP32 microcontroller using the Arduino IDE, an open-source platform with syntax similar to C programming.
 
