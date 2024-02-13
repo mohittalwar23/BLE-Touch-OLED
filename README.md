@@ -1,5 +1,7 @@
 # This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy)
 
+Problem Statement:
+
 Select a touch pin on ESP32, display the real-time touch value as a  continuous graph on OLED screen. 
 
 At the same time send it using bluetooth to computer or phone and display the graph on PC in real-time.
