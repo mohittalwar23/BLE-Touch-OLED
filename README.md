@@ -3,6 +3,8 @@
 
 The firmware is designed to be uploaded onto an ESP32 microcontroller using the Arduino IDE, an open-source platform with syntax similar to C programming.
 
+Install Arduino IDE if not installed using Arduino's official website, add boards manager for ESP32
+
 To upload the firmware file onto the ESP32, no external libraries are necessary. 
 
 When selecting the boards manager in the Arduino IDE and choosing ESP32, all relevant examples are accessible under FILE > EXAMPLES > ESP32 > BLE.
