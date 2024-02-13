@@ -32,6 +32,8 @@ The oled implementation is based on an opensource library https://github.com/elC
 We are measuring the touch sensor value ( minimum - 0 when touched and maximum 70ish when no touch)
 Similarly multiple graphs can be implemented
 
+![DEMO](https://github.com/mohittalwar23/BLE-Touch-OLED/blob/main/demogif2.gif)
+
 
 CREDITS:  https://github.com/elC0mpa for the OLED PART
 
