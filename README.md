@@ -1,5 +1,29 @@
+# This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy)
 
-# This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy).
+Select a touch pin on ESP32, display the real-time touch value as a  continuous graph on OLED screen. 
+
+At the same time send it using bluetooth to computer or phone and display the graph on PC in real-time.
+
+# INSTRUCTIONS/INSTALLATION
+
+- Install Arduino IDE if not present
+- Have the board manager for ESP32 Installed
+- Have the necessary libraries installed
+- Sketch > Include Libraries > Add .zip Libraries
+- Install zip file from https://github.com/elC0mpa/OLED_SSD1306_Chart/tree/master
+- Compile and UPLOAD TOUCH_WITH_oled_BLE.ino
+- Voila OLED works , now open linux if not already
+- In Terminal add these commands to install bluepy
+  ```plaintext
+  sudo apt-get install python-pip libglib2.0-dev
+  sudo pip install bluepy
+  ```
+- Now run the file by this command
+  ```plaintext
+  python3 app.py
+  ```
+  
+# GENERAL
 
 The firmware is designed to be uploaded onto an ESP32 microcontroller using the Arduino IDE, an open-source platform with syntax similar to C programming.
 
