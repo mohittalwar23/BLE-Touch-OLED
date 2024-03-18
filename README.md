@@ -1,4 +1,4 @@
-# This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy)
+# This repository hosts code for plotting touch sensor data using BLE (Bluetooth Low Energy) , UDP SOCKETS, WIFI etc
 
 Problem Statement:
 
